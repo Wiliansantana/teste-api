@@ -1,5 +1,5 @@
 function getCarro() {
-    fetch("http://localhost:8080/api/v1/carro")
+    fetch("https://apitestes.herokuapp.com/api/v1/carro")
         .then((resp) => resp.json()) 
         .then(function (data) {
             console.log(data)
