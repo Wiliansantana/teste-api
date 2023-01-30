@@ -35,7 +35,7 @@ function startGame() {
 }
 
 function preload() {
-	carImg = loadImage("https://raw.githubusercontent.com/Wiliansantana/teste-api/main/WhatsApp_Image_2023-01-28_at_03.11.15-removebg-preview.png");
+	carImg = loadImage("https://raw.githubusercontent.com/Wiliansantana/teste-api/main/jogo/img/mss.png");
 	enemyCarImg = loadImage('https://raw.githubusercontent.com/Wiliansantana/teste-api/main/cb-removebg-preview.png'); 
 }
 
